@@ -1,4 +1,4 @@
-Entry-level Data Analyst with hands-on project experience in Python, SQL, Excel, and Power BI.
+Data Analyst with hands-on project experience in Python, SQL, Excel, and Power BI.
 
 ### Customer Segmentation Analysis
 Used Python to group customers based on purchasing behavior.  
